@@ -1,1 +1,0 @@
-Ссылка на таблицу данных с каггла: https://www.kaggle.com/datasets/omercolakoglu/10million-rows-turkish-market-sales-dataset?resource=download
